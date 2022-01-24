@@ -1,0 +1,40 @@
+.our-commit{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1110px;
+    margin-top: 663px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+}
+
+.our-commit__image{
+    width: 445px;
+    height: 520px;
+    border-radius: 10px;
+}
+
+.our-commit__div{
+    width: 540px;
+    margin: 0;
+    padding: 0;
+}
+
+.our-commit__title{
+    font-family: $second-family-Fraunces, sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: #333D4B;
+    margin: 0;
+    padding: 0;
+}
+
+.our-commit__text{
+    font-family: $main-family-Barlow, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333D4B;
+    margin-top: 32px;
+    padding: 0;
+}

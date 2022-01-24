@@ -1,0 +1,60 @@
+.country{
+    padding: 0;
+    margin: 0;
+}
+
+.country__div{
+    width: 1045px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+}
+
+.country__title{
+    font-family: $second-family-Fraunces, sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    color: #83888F;
+    margin: 0;
+    padding: 0;
+}
+
+.country__list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 72px;
+    padding: 0;
+}
+
+.country__item{
+    width: 285px;
+    margin-bottom: 168px;
+    padding: 0;
+}
+
+.country__image{
+    width: 41px;
+    height: 49px;
+}
+
+.country__name{
+    font-family: $second-family-Fraunces, sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    color: #333D4B;
+    text-transform: capitalize;
+    margin-top: 45px;
+    margin-bottom: 24px;
+    padding: 0;
+}
+
+.country__text{
+    font-family: $main-family-Barlow, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333D4B;
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+}
